@@ -1,0 +1,1 @@
+web: build/install/com.example.gson-stuff-api/bin/com.example.gson-stuff-api
